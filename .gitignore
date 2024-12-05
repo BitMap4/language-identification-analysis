@@ -1,0 +1,13 @@
+test.*
+tests/
+_multifeature_model.py
+
+__pycache__/
+
+venv/
+
+indic_nlp_project/
+*.pkl
+results/
+app.log
+data/

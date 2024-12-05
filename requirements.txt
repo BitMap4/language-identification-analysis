@@ -1,0 +1,6 @@
+numpy
+nltk
+scikit-learn
+inltk
+indic-nlp-library
+matplotlib
